@@ -1,0 +1,24 @@
+body {
+    background-size: cover;
+    background-position: center;
+}
+.heading
+{
+font-size: 30px;
+width: 100%;
+margin: 0px;
+border-radius: 20px;
+box-shadow: 5px 5px 5px darkblue;
+margin-top: 0px;
+}
+
+#status,#objects,#start_model, #status_baby
+{
+font-size: 18px;
+}
+canvas {
+    box-shadow: 20px 20px 20px rgb(255, 255, 255);
+    border-radius: 20px;
+    margin-top: 70px;
+    border: 7px solid black;
+}
